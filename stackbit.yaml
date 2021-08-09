@@ -1,0 +1,274 @@
+stackbitVersion: ~0.3.0
+ssgName: jekyll
+publishDir: _site
+dataDir: _data
+pagesDir: ''
+models:
+  post:
+    type: page
+    label: Post
+    folder: _posts
+    match: '*'
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+  page_1:
+    type: page
+    label: Page 1
+    match:
+      - courses/quantum-mechanics.md
+      - courses/stellar-structures.md
+      - courses/vector-calculus.md
+      - people/graduate-student.md
+      - people/lab-technician.md
+      - people/primary-investigator.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+  page_2:
+    type: page
+    label: Page 2
+    match:
+      - contact.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+  page_3:
+    type: page
+    label: Page 3
+    match:
+      - courses.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+  page_4:
+    type: page
+    label: Page 4
+    match:
+      - cv.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+  page_5:
+    type: page
+    label: Page 5
+    match:
+      - index.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+  page_6:
+    type: page
+    label: Page 6
+    match:
+      - people.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+  page_7:
+    type: page
+    label: Page 7
+    match:
+      - publications.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: title
+        label: Title
+  academic_experience:
+    type: data
+    label: Academic Experience
+    file: cv/academic-experience.yml
+    isList: true
+    items:
+      type: object
+      fields:
+        - type: string
+          name: title
+          label: Title
+        - type: string
+          name: description
+          label: Description
+  education:
+    type: data
+    label: Education
+    file: cv/education.yml
+    isList: true
+    items:
+      type: object
+      fields:
+        - type: string
+          name: title
+          label: Title
+        - type: string
+          name: description
+          label: Description
+  publications:
+    type: data
+    label: Publications
+    file: publications.yml
+    fields:
+      - type: list
+        name: featured
+        label: Featured
+        items:
+          type: object
+          fields:
+            - type: string
+              name: name
+              label: Name
+            - type: string
+              name: url
+              label: Url
+      - type: list
+        name: index
+        label: Index
+        items:
+          type: object
+          fields:
+            - type: string
+              name: name
+              label: Name
+            - type: string
+              name: url
+              label: Url
+  settings:
+    type: data
+    label: Settings
+    file: settings.yml
+    fields:
+      - type: list
+        name: menu
+        label: Menu
+        items:
+          type: object
+          fields:
+            - type: string
+              name: name
+              label: Name
+            - type: string
+              name: url
+              label: Url
+      - type: list
+        name: people
+        label: People
+        items:
+          type: object
+          fields:
+            - type: string
+              name: name
+              label: Name
+            - type: string
+              name: title
+              label: Title
+            - type: string
+              name: department
+              label: Department
+            - type: string
+              name: institution
+              label: Institution
+            - type: string
+              name: institution_address
+              label: Institution Address
+            - type: string
+              name: phone
+              label: Phone
+            - type: string
+              name: email
+              label: Email
+            - type: string
+              name: office
+              label: Office
+            - type: image
+              name: image
+              label: Image
+            - type: string
+              name: url
+              label: Url
+      - type: list
+        name: courses
+        label: Courses
+        items:
+          type: object
+          fields:
+            - type: string
+              name: name
+              label: Name
+            - type: string
+              name: url
+              label: Url
+      - type: list
+        name: social
+        label: Social
+        items:
+          type: object
+          fields:
+            - type: string
+              name: icon
+              label: Icon
+            - type: string
+              name: link
+              label: Link
+      - type: list
+        name: contacts
+        label: Contacts
+        items:
+          type: object
+          fields:
+            - type: string
+              name: name
+              label: Name
+            - type: string
+              name: title
+              label: Title
+            - type: string
+              name: department
+              label: Department
+            - type: string
+              name: institution
+              label: Institution
+            - type: string
+              name: institution_address
+              label: Institution Address
+            - type: string
+              name: phone
+              label: Phone
+            - type: string
+              name: email
+              label: Email
+            - type: string
+              name: office
+              label: Office
+            - type: image
+              name: image
+              label: Image
