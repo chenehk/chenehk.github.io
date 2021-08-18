@@ -4,44 +4,7 @@ menu:
   - name: Publications
     url: /publications
   - name: CV
-    url: /cv
-people:
-  - name: Primary Investigator
-    title: Researcher
-    department: Physics & Astronomy
-    institution: Some University
-    institution_address: '1 Main Street, Canada'
-    phone: (000) 000-0000
-    email: hello@university.edu
-    office: Science Building 505
-    url: primary-investigator
-  - name: Lab Technician
-    title: Researcher
-    department: Physics & Astronomy
-    institution: Some University
-    institution_address: '1 Main Street, Canada'
-    phone: (000) 000-0000
-    email: hello@university.edu
-    office: Science Building 505
-    image: assets/img/lab-technician.jpg
-    url: lab-technician
-  - name: Graduate Student
-    title: Researcher
-    department: Physics & Astronomy
-    institution: Some University
-    institution_address: '1 Main Street, Canada'
-    phone: (000) 000-0000
-    email: hello@university.edu
-    office: Science Building 505
-    image: assets/img/graduate-student.jpg
-    url: graduate-student
-courses:
-  - name: Vector Calculus
-    url: vector-calculus
-  - name: Quantum Mechanics
-    url: quantum-mechanics
-  - name: Stellar Structures
-    url: stellar-structures
+    url: /cv/Sichen_Jin_Resume.pdf
 social:
   - icon: github
     link: 'https://github.com/chenehk'
@@ -49,13 +12,3 @@ social:
     link: 'https://www.instagram.com/chen_ehk/'
   - icon: linkedin
     link: 'https://www.linkedin.com/in/sichen-jin-993745218/'
-contacts:
-  - name: Dr. Academia
-    title: Professor
-    department: Physics & Astronomy
-    institution: Some University
-    institution_address: '1 Main Street, Canada'
-    phone: (000) 000-0000
-    email: hello@university.edu
-    office: Science Building 505
-    image: assets/img/contact.jpg
