@@ -1,9 +1,13 @@
 featured:
+- {name: '', url:''}
+- {name: 'Conformer-based on-device streaming speech recognition with KD compression and two-pass architecture', url: 'https://ieeexplore.ieee.org/document/10023291'}
 - {name: 'Streaming on-device end-to-end ASR system for privacy-sensitive voice-typing', url: 'http://www.interspeech2020.org/uploadfile/pdf/Wed-3-9-6.pdf'}
 - {name: 'Attention based on-device streaming speech recognition with large speech corpus', url: 'https://arxiv.org/abs/2001.00577'}
-- {name: 'end-to-end training of a large vocabulary end-to-end speech recognition system', url: 'https://arxiv.org/abs/1912.11040'}
+- {name: 'End-to-end training of a large vocabulary end-to-end speech recognition system', url: 'https://arxiv.org/abs/1912.11040'}
 
 index:
+- {name: '', url:''}
+- {name: 'Conformer-based on-device streaming speech recognition with KD compression and two-pass architecture', url: 'https://ieeexplore.ieee.org/document/10023291'}
 - {name: 'Streaming on-device end-to-end ASR system for privacy-sensitive voice-typing', url: 'http://www.interspeech2020.org/uploadfile/pdf/Wed-3-9-6.pdf'}
 - {name: 'Attention based on-device streaming speech recognition with large speech corpus', url: 'https://arxiv.org/abs/2001.00577'}
-- {name: 'end-to-end training of a large vocabulary end-to-end speech recognition system', url: 'https://arxiv.org/abs/1912.11040'}
+- {name: 'End-to-end training of a large vocabulary end-to-end speech recognition system', url: 'https://arxiv.org/abs/1912.11040'}
