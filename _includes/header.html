@@ -17,7 +17,7 @@
         </label>
 
         <div class="trigger">
-            <a class="page-link" href="assets/CV_sichen_jin.pdf">CV</a>
+            <a class="page-link" href="{{site.url}}/assets/CV_sichen_jin.pdf" target="_blank">CV</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
