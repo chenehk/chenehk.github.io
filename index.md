@@ -22,4 +22,4 @@ Prior to Samsung Research, I received B.S. in CSE from Seoul National University
 
 # News!
 ---
-:loudspeaker: I will be presenting my [paper](https://arxiv.org/abs/2406.07923) on spoken keyword detection at INTERSPEECH 2024!
+:loudspeaker: (09/24) I will be presenting my [paper](https://arxiv.org/abs/2406.07923) on spoken keyword detection at INTERSPEECH 2024!
