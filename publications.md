@@ -7,7 +7,7 @@ permalink: /publications/
 
 <p style="line-height: 1; font-size: 16px"><b>CTC-aligned Audio-Text Embedding for Streaming Open-vocabulary Keyword Spotting</b></p>
 <p style="line-height: 1; font-size: 14px"><b>Sichen Jin</b>, Youngmoon Jung, Seungjin Lee, Jaeyoung Roh, Changwoo Han, Hoonyoung Cho</p>
-<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2024</i>. <a href="https://arxiv.org/abs/2406.07923">[pdf]</a></p>
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2024</i>. <a href="https://www.isca-archive.org/interspeech_2024/jin24d_interspeech.html">[pdf]</a></p>
 
 <br>
 
@@ -17,7 +17,7 @@ permalink: /publications/
 
 <br>
 
-<p style="line-height: 1; font-size: 16px"><b>A More Accurate Internal Language Model Score Estimation for the Hybrid Autoregressive Transducer</b></p>
+<p style="line-height: 1; font-size: 16px"><b>Conformer-based on-device streaming speech recognition with KD compression and two-pass architecture</b></p>
 <p style="line-height: 1; font-size: 14px">Jinhwan Park*, <b>Sichen Jin*</b>, Sungsoo Kim*, Junmo Park*, Dhairya Sandhyana, Changheon Lee, Myoungji Han, Jungin Lee, Seokyeong Han, Changwoo Han, Chanwoo Kim</p>
 <p style="line-height: 0; font-size: 14px">In: <i>Proceedings of SLT 2022</i>. <a href="https://ieeexplore.ieee.org/document/10023291">[pdf]</a></p>
 
