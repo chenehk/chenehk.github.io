@@ -17,7 +17,7 @@ permalink: /publications/
 
 <br>
 
-<p style="line-height: 1; font-size: 16px"><b>Conformer-based on-device streaming speech recognition with KD compression and two-pass architecture</b></p>
+<p style="line-height: 1; font-size: 16px"><b>Conformer-based On-device Streaming Speech Recognition with KD Compression and Two-pass Architecture</b></p>
 <p style="line-height: 1; font-size: 14px">Jinhwan Park*, <b>Sichen Jin*</b>, Sungsoo Kim*, Junmo Park*, Dhairya Sandhyana, Changheon Lee, Myoungji Han, Jungin Lee, Seokyeong Han, Changwoo Han, Chanwoo Kim</p>
 <p style="line-height: 0; font-size: 14px">In: <i>Proceedings of SLT 2022</i>. <a href="https://ieeexplore.ieee.org/document/10023291">[pdf]</a></p>
 
