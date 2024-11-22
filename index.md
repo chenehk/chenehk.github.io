@@ -13,7 +13,7 @@ I’m a speech researcher at [Samsung Research](https://research.samsung.com), f
 * **Cross-modal inference-time intervention**: [Estimating internal language models](https://www.isca-archive.org/interspeech_2023/lee23b_interspeech.html) learned by speech models  to improve inference-time integration with external language models.
 * **ASR for Samsung Bixby**: [Full-stack ASR engineering](https://ieeexplore.ieee.org/document/10023291) for [Samsung Bixby](https://mobilesyrup.com/2023/02/22/samsung-elevates-bixby-with-new-features/), including large-scale training, model compression, long-form speech recognition, and cross-modal inference-time biasing.
 
-In addition to my research in speech processing, I am generally interested in the interpretability of neural networks. I believe that understanding the inner mechanisms of current award-winning large models will help us gain controllability and design more computationally efficient models. In that note, I am interested in the following research topics.
+In addition to my research in speech processing, I am generally interested in the interpretability of neural networks. I believe that understanding the inner mechanisms of current award-winning large models will help us gain controllability and design more computationally efficient models. On that note, I am interested in the following research topics.
 
 * **Speech foundation models**: What can we learn from the speech represenations of each layers of the speech foundation models? What is the best way to utilize the phonetic and synthetic information for downstream tasks?
 * **Interpretability of large models**: How are the emergent abilities such as reasoning presented in neural networks? How can we extract the circuits and make them more explicit?
