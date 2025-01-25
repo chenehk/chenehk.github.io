@@ -7,19 +7,27 @@ permalink: /publications/
 
 <p style="line-height: 1; font-size: 16px"><b>CTC-aligned Audio-Text Embedding for Streaming Open-vocabulary Keyword Spotting</b></p>
 <p style="line-height: 1; font-size: 14px"><b>Sichen Jin</b>, Youngmoon Jung, Seungjin Lee, Jaeyoung Roh, Changwoo Han, Hoonyoung Cho</p>
-<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2024</i>. <a href="https://arxiv.org/abs/2406.07923">[pdf]</a> <a href="{{site.url}}/assets/Interspeech2024_poster.pdf">[poster]</a> <a href="{{site.url}}/ctcat">[notes]</a></p>
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2024</i>.
+    <a href="https://arxiv.org/abs/2406.07923">[pdf]</a>
+    <a href="{{site.url}}/assets/Interspeech2024_poster.pdf">[poster]</a>
+    <a href="{{site.url}}/ctcat">[notes]</a>
+</p>
 <br>
 
 <p style="line-height: 1; font-size: 16px"><b>A More Accurate Internal Language Model Score Estimation for the Hybrid Autoregressive Transducer</b></p>
 <p style="line-height: 1; font-size: 14px">Kyungmin Lee*, Haeri Kim*, <b>Sichen Jin</b>, Jinhwan Park, Youngho Han</p>
-<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2023</i>. <a href="https://www.isca-archive.org/interspeech_2023/lee23b_interspeech.html">[pdf]</a> <a href="{{site.url}}/contextual">[notes]</a></p>
-
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2023</i>.
+    <a href="https://www.isca-archive.org/interspeech_2023/lee23b_interspeech.html">[pdf]</a>
+    <a href="{{site.url}}/contextual">[notes]</a>
+</p>
 <br>
 
 <p style="line-height: 1; font-size: 16px"><b>Conformer-Based on-Device Streaming Speech Recognition with KD Compression and Two-Pass Architecture</b></p>
 <p style="line-height: 1; font-size: 14px">Jinhwan Park*, <b>Sichen Jin*</b>, Sungsoo Kim*, Junmo Park*, Dhairya Sandhyana, Changheon Lee, Myoungji Han, Jungin Lee, Seokyeong Han, Changwoo Han, Chanwoo Kim</p>
-<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of SLT 2022</i>. <a href="https://ieeexplore.ieee.org/document/10023291">[pdf]</a> <a href="{{site.url}}/assets/SLT2022_poster.pdf">[poster]</a> <a href="{{site.url}}/asr">[notes]</a></p>
-
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of SLT 2022</i>.
+    <a href="https://ieeexplore.ieee.org/document/10023291">[pdf]</a>
+    <a href="{{site.url}}/assets/SLT2022_poster.pdf">[poster]</a>
+</p>
 <br>
 
 <p style="line-height: 1; font-size: 16px"><b>Streaming on-device end-to-end ASR system for privacy-sensitive voice-typing</b></p>
@@ -30,10 +38,14 @@ permalink: /publications/
 
 <p style="line-height: 1; font-size: 16px"><b>Attention based on-device streaming speech recognition with large speech corpus</b></p>
 <p style="line-height: 1; font-size: 14px">Kwangyoun Kim*, Kyungmin Lee*, Dhananjaya Gowda, Junmo Park, Sungsoo Kim, <b>Sichen Jin</b>, Young-Yoon Lee, Jinsu Yeo, Daehyun Kim, Seokyeong Jung, Jungin Lee, Myoungji Han, Chanwoo Kim</p>
-<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of ASRU 2019</i>. <a href="https://arxiv.org/abs/2001.00577">[pdf]</a></p>
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of ASRU 2019</i>.
+    <a href="https://arxiv.org/abs/2001.00577">[pdf]</a>
+</p>
 
 <br>
 
 <p style="line-height: 1; font-size: 16px"><b>End-to-end training of a large vocabulary end-to-end speech recognition system</b></p>
 <p style="line-height: 1; font-size: 14px">Chanwoo Kim, Sungsoo Kim, Kwangyoun Kim, Mehul Kumar, Jiyeon Kim, Kyungmin Lee, Changwoo Han, Abhinav Garg, <b>Eunhyang Kim</b>, Minkyoo Shin, Shatrughan Singh, Larry Heck, Dhananjaya Gowda</p>
-<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of ASRU 2019</i>. <a href="https://arxiv.org/abs/1912.11040">[pdf]</a></p>
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of ASRU 2019</i>.
+    <a href="https://arxiv.org/abs/1912.11040">[pdf]</a>
+</p>
