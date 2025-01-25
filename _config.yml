@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sichen Jin (Eunhyang Kim)
-email: galaxybob@snu.ac.kr
+email: chenehk@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  AI Enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,6 +22,9 @@ url: "https://chenehk.github.io" # the base hostname & protocol for your site, e
 github_username:  chenehk
 linkedin_username: sichen-jin-ml
 googlescholar_username: OwO5VXMAAAAJ
+header_pages:
+  - publications.md
+  - talks.md
 
 # Build settings
 markdown: kramdown
