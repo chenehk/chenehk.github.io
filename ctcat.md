@@ -5,7 +5,8 @@
 layout: page
 ---
 
-## Tiny Spoken Keyword Spotting (2023)
+<h1 class="post-title">Tiny Spoken Keyword Spotting (2023)</h1>
+<br>
 
 # Objectives
 - We needed a tiny model (35k) to run all the time on the device with low computational cost.

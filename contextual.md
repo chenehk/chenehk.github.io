@@ -5,7 +5,8 @@
 layout: page
 ---
 
-## Contextual Biasing (2022)
+<h1 class="post-title">Contextual Biasing (2022)</h1>
+<br>
 
 # Objectives
 - We want to improve the accuracy of the Transducer model to a certain domain where we only have text data. (e.g., contact list from your phone)
