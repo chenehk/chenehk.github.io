@@ -32,26 +32,27 @@ permalink: /publications/
 
 <p style="line-height: 1; font-size: 16px"><b>Streaming on-device end-to-end ASR system for privacy-sensitive voice-typing</b></p>
 <p style="line-height: 1; font-size: 14px">Abhinav Garg, Gowtham Vadisetti, Dhananjaya Gowda, <b>Sichen Jin</b>, Aditya Jayasimha, Youngho Han, Jiyeon Kim, Junmo Park, Kwangyoun Kim, Sooyeon Kim, Youngyoon Lee, Kyungbo Min, Chanwoo Kim</p>
-<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2020</i>. <a href="https://doi.org/10.21437/Interspeech.2020-3172">[pdf]</a></p>
-
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2020</i>.
+    <a href="https://doi.org/10.21437/Interspeech.2020-3172">[pdf]</a>
+</p>
 <br>
 
 <p style="line-height: 1; font-size: 16px"><b>Utterance Invariant Training for Hybrid Two-Pass End-to-End Speech Recognition</b></p>
 <p style="line-height: 1; font-size: 14px">Dhananjaya Gowda, Ankur Kumar, Kwangyoun Kim, Hejung Yang, Abhinav Garg, Sachin Singh, Jiyeon Kim, Mehul Kumar, <b>Sichen Jin</b>, Shatrughan Singh, Chanwoo Kim</p>
-<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2020</i>. <a href="https://www.isca-archive.org/interspeech_2020/gowda20_interspeech.html">[pdf]</a></p>
-
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2020</i>.
+    <a href="https://www.isca-archive.org/interspeech_2020/gowda20_interspeech.html">[pdf]</a>
+</p>
 <br>
 
 <p style="line-height: 1; font-size: 16px"><b>Attention based on-device streaming speech recognition with large speech corpus</b></p>
 <p style="line-height: 1; font-size: 14px">Kwangyoun Kim*, Kyungmin Lee*, Dhananjaya Gowda, Junmo Park, Sungsoo Kim, <b>Sichen Jin</b>, Young-Yoon Lee, Jinsu Yeo, Daehyun Kim, Seokyeong Jung, Jungin Lee, Myoungji Han, Chanwoo Kim</p>
 <p style="line-height: 0; font-size: 14px">In: <i>Proceedings of ASRU 2019</i>.
-    <a href="https://arxiv.org/abs/2001.00577">[pdf]</a>
+    <a href="https://doi.org/10.1109/ASRU46091.2019.9004027">[pdf]</a>
 </p>
-
 <br>
 
 <p style="line-height: 1; font-size: 16px"><b>End-to-end training of a large vocabulary end-to-end speech recognition system</b></p>
 <p style="line-height: 1; font-size: 14px">Chanwoo Kim, Sungsoo Kim, Kwangyoun Kim, Mehul Kumar, Jiyeon Kim, Kyungmin Lee, Changwoo Han, Abhinav Garg, <b>Eunhyang Kim</b>, Minkyoo Shin, Shatrughan Singh, Larry Heck, Dhananjaya Gowda</p>
 <p style="line-height: 0; font-size: 14px">In: <i>Proceedings of ASRU 2019</i>.
-    <a href="https://arxiv.org/abs/1912.11040">[pdf]</a>
+    <a href="https://doi.org/10.1109/ASRU46091.2019.9003976">[pdf]</a>
 </p>
