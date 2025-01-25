@@ -8,7 +8,7 @@ permalink: /publications/
 <p style="line-height: 1; font-size: 16px"><b>CTC-aligned Audio-Text Embedding for Streaming Open-vocabulary Keyword Spotting</b></p>
 <p style="line-height: 1; font-size: 14px"><b>Sichen Jin</b>, Youngmoon Jung, Seungjin Lee, Jaeyoung Roh, Changwoo Han, Hoonyoung Cho</p>
 <p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2024</i>.
-    <a href="https://arxiv.org/abs/2406.07923">[pdf]</a>
+    <a href="https://doi.org/10.21437/Interspeech.2024-706">[pdf]</a>
     <a href="{{site.url}}/assets/Interspeech2024_poster.pdf">[poster]</a>
     <a href="{{site.url}}/ctcat">[notes]</a>
 </p>
@@ -32,7 +32,13 @@ permalink: /publications/
 
 <p style="line-height: 1; font-size: 16px"><b>Streaming on-device end-to-end ASR system for privacy-sensitive voice-typing</b></p>
 <p style="line-height: 1; font-size: 14px">Abhinav Garg, Gowtham Vadisetti, Dhananjaya Gowda, <b>Sichen Jin</b>, Aditya Jayasimha, Youngho Han, Jiyeon Kim, Junmo Park, Kwangyoun Kim, Sooyeon Kim, Youngyoon Lee, Kyungbo Min, Chanwoo Kim</p>
-<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2020</i>. <a href="http://www.interspeech2020.org/uploadfile/pdf/Wed-3-9-6.pdf">[pdf]</a></p>
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2020</i>. <a href="https://doi.org/10.21437/Interspeech.2020-3172">[pdf]</a></p>
+
+<br>
+
+<p style="line-height: 1; font-size: 16px"><b>Utterance Invariant Training for Hybrid Two-Pass End-to-End Speech Recognition</b></p>
+<p style="line-height: 1; font-size: 14px">Dhananjaya Gowda, Ankur Kumar, Kwangyoun Kim, Hejung Yang, Abhinav Garg, Sachin Singh, Jiyeon Kim, Mehul Kumar, <b>Sichen Jin</b>, Shatrughan Singh, Chanwoo Kim</p>
+<p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2020</i>. <a href="https://www.isca-archive.org/interspeech_2020/gowda20_interspeech.html">[pdf]</a></p>
 
 <br>
 
