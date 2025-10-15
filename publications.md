@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 *\* denotes equal contribution.*
 
+<p style="line-height: 1; font-size: 16px"><b>Less is Enough: A Target Fine-tuning Strategy for ASR Contextual Biasing</b></p>
+<p style="line-height: 1; font-size: 14px"><b>Sichen Jin</b>, Shinji Watanabe</p>
+<p style="line-height: 0; font-size: 14px">In-review: <i>ACL Rolling Review - October</p>
+<br>
+
 <p style="line-height: 1; font-size: 16px"><b>CTC-aligned Audio-Text Embedding for Streaming Open-vocabulary Keyword Spotting</b></p>
 <p style="line-height: 1; font-size: 14px"><b>Sichen Jin</b>, Youngmoon Jung, Seungjin Lee, Jaeyoung Roh, Changwoo Han, Hoonyoung Cho</p>
 <p style="line-height: 0; font-size: 14px">In: <i>Proceedings of INTERSPEECH 2024</i>.
