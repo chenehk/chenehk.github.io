@@ -7,7 +7,9 @@ permalink: /publications/
 
 <p style="line-height: 1; font-size: 16px"><b>Less is Enough: A Target Fine-tuning Strategy for ASR Contextual Biasing</b></p>
 <p style="line-height: 1; font-size: 14px"><b>Sichen Jin</b>, Shinji Watanabe</p>
-<p style="line-height: 0; font-size: 14px">In-review: <i>ACL Rolling Review - October 2025.</i></p>
+<p style="line-height: 0; font-size: 14px">In-review: <i>ACL Rolling Review - October 2025.</i>
+    <a href="{{site.url}}/assets/ARR25_Target_Finetuning.pdf">[pdf]</a>
+</p>
 <br>
 
 <p style="line-height: 1; font-size: 16px"><b>CTC-aligned Audio-Text Embedding for Streaming Open-vocabulary Keyword Spotting</b></p>
@@ -61,3 +63,4 @@ permalink: /publications/
 <p style="line-height: 0; font-size: 14px">In: <i>Proceedings of ASRU 2019</i>.
     <a href="https://doi.org/10.1109/ASRU46091.2019.9003976">[pdf]</a>
 </p>
+
