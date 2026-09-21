@@ -34,6 +34,8 @@ permalink: /publications/
 <p style="line-height: 0; font-size: 14px">In: <i>Proceedings of SLT 2022</i>.
     <a href="https://ieeexplore.ieee.org/document/10023291">[pdf]</a>
     <a href="{{site.url}}/assets/SLT2022_poster.pdf">[poster]</a>
+    <a href="{{site.url}}/assets/SLT2022_presentation.pdf">[slides]</a>
+    <a href="{{site.url}}/assets/slt2022.mp4">[video]</a>
 </p>
 <br>
 
